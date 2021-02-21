@@ -1,7 +1,7 @@
 const BlogList = ({ blogs, title }) => {
     return ( 
         <div className="blogList">
-        <h2>{ title }</h2>
+            <h2>{ title }</h2>
             { blogs.map((blog) => (
                 <div className="blogPreview" key={blog.id}>
                     <h2> { blog.title }</h2>
@@ -9,7 +9,7 @@ const BlogList = ({ blogs, title }) => {
                 </div>
             ))}
         </div>
-     );
+    );
 }
- 
+
 export default BlogList;
