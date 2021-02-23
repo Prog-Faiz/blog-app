@@ -1,28 +1,40 @@
 {
-    "blogs": [
-        { 
-            "title": "My new Website", 
-            "body": "lorem ipsum...", 
-            "author": "mario", 
-            "id": 1
-        },
-        { 
-            "title": "Welcome party!", 
-            "body": "lorem ipsum...", 
-            "author": "yoshi", 
-            "id": 2
-        },
-        { 
-            "title": "Web dev top tips", 
-            "body": "lorem ipsum...", 
-            "author": "mario", 
-            "id": 3
-        },
-        { 
-            "title": "Welcome president!", 
-            "body": "lorem ipsum...", 
-            "author": "yoshi", 
-            "id": 4
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Welcome president!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "My Top 5 Foods",
+      "body": "1. Meat\n2. Paneer\n3. Banana Shake\n4. Chicken\n5. Bread ",
+      "author": "Mario",
+      "id": 5
+    },
+    {
+      "title": "aa",
+      "body": "bb",
+      "author": "Yoshi",
+      "id": 6
+    }
+  ]
 }
