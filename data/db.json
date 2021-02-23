@@ -2,25 +2,19 @@
   "blogs": [
     {
       "title": "My new Website",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aperiam expedita facere voluptas dolor iure ipsam vel incidunt fugiat? Reprehenderit, praesentium odio laborum mollitia consequatur sunt accusamus eligendi voluptatum quas delectus aliquid numquam vero atque minus iusto ex odit asperiores voluptatibus cupiditate, placeat minima aut quo? Sint voluptatem ipsum harum!",
       "author": "mario",
       "id": 1
     },
     {
       "title": "Welcome party!",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aperiam expedita facere voluptas dolor iure ipsam vel incidunt fugiat? Reprehenderit, praesentium odio laborum mollitia consequatur sunt accusamus eligendi voluptatum quas delectus aliquid numquam vero atque minus iusto ex odit asperiores voluptatibus cupiditate, placeat minima aut quo? Sint voluptatem ipsum harum!",
       "author": "yoshi",
       "id": 2
     },
     {
-      "title": "Web dev top tips",
-      "body": "lorem ipsum...",
-      "author": "mario",
-      "id": 3
-    },
-    {
       "title": "Welcome president!",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aperiam expedita facere voluptas dolor iure ipsam vel incidunt fugiat? Reprehenderit, praesentium odio laborum mollitia consequatur sunt accusamus eligendi voluptatum quas delectus aliquid numquam vero atque minus iusto ex odit asperiores voluptatibus cupiditate, placeat minima aut quo? Sint voluptatem ipsum harum!",
       "author": "yoshi",
       "id": 4
     },
@@ -29,12 +23,6 @@
       "body": "1. Meat\n2. Paneer\n3. Banana Shake\n4. Chicken\n5. Bread ",
       "author": "Mario",
       "id": 5
-    },
-    {
-      "title": "aa",
-      "body": "bb",
-      "author": "Yoshi",
-      "id": 6
     }
   ]
 }
