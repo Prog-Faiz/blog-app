@@ -57,3 +57,17 @@
   margin-bottom: 8px;
 }
 
+.blogPreview a {
+  text-decoration: none;
+}
+
+/* blog details page */
+.blogDetails h2 {
+  font-size: 20px;
+  color: #d6531f;
+  margin-bottom: 10px;
+}
+
+.blogDetails div {
+  margin: 20px 0;
+}
